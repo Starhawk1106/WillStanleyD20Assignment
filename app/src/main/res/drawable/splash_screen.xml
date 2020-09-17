@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@color/colorBlue"/>
+
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/d2020"/>
+    </item>
+    <item>
+        <bitmap
+            android:gravity="top"
+            android:src="@drawable/cooltext3fix"/>
+    </item>
+    <item>
+        <bitmap
+            android:gravity="bottom"
+            android:src="@drawable/cooltext4fix"/>
+    </item>
+</layer-list>
